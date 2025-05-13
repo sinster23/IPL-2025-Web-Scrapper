@@ -2,10 +2,14 @@
 A Node.js script that scrapes detailed IPL 2025 match data (batsmen and bowlers stats) from ESPN Cricinfo and organizes it into structured Excel files, grouped by teams.
 
 ## 📦 Features
-- Scrapes scorecard links from IPL 2025 matches
-- Extracts batsman and bowler stats (runs, wickets, economy, etc.)
-- Skips matches with "No Result"
-- Saves data in Excel format, organized by team and player
+📂 Organizes player data into team folders.
+
+📊 Stores batting and bowling stats in individual Excel sheets.
+
+🌐 Scrapes match scorecard data from ESPN Cricinfo.
+
+❌ Skips "No Result" matches automatically.
+
 
 ## Tech Stack
 - Node.js
