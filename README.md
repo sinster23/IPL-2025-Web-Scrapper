@@ -12,14 +12,16 @@
 - File System (fs)
 
 ## Folder Structure
-``IPL/
+```
+IPL/
 ├── Team 1/
 │ ├── Player1.xlsx
 │ └── Player2.xlsx
 ├── Team 2/
 │ ├── Player1.xlsx
 │ └── Player2.xlsx
-...``
+...
+```
 
 ## Usage
 ```bash
