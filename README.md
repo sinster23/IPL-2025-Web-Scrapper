@@ -32,8 +32,8 @@ IPL/
 
 ## 🛠️ Setup
 ```bash
-git clone https://github.com/your-username/IPL-Scraper.git
-cd IPL-Scraper
+git clone https://github.com/sinster23/IPL-2025-Web-Scraper.git
+cd IPL-2025-Web-Scraper
 npm install
 ```
 
