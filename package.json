@@ -1,0 +1,17 @@
+{
+  "name": "web_scraping",
+  "version": "1.0.0",
+  "main": "ipl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "request": "^2.88.2",
+    "xlsx": "^0.18.5"
+  }
+}
